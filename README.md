@@ -53,6 +53,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 **Get the % increase in the cost of orders from year 2017 to 2018 (include months between Jan to Aug only).**
 
 ```
+sql
 WITH year_wise AS
 (
   SELECT
@@ -114,7 +115,9 @@ ORDER BY rowss) AS temp;
 
 **Find out the top 5 states where the order delivery is really fast as compared to the estimated date of delivery.**
 
-```SELECT 
+```
+sql
+SELECT 
     customer_state, avg_delivery_speed
 FROM
     (SELECT 
