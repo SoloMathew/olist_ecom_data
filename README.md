@@ -31,7 +31,7 @@ reviews.csv
 orders.csv
 products.csv
 
-Add schema image here
+![image](https://github.com/SoloMathew/olist_ecom_data/blob/main/schema.png)
 
 ### Tools
 
