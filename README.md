@@ -114,8 +114,7 @@ ORDER BY rowss) AS temp;
 
 **Find out the top 5 states where the order delivery is really fast as compared to the estimated date of delivery.**
 
-```
-SELECT 
+```SELECT 
     customer_state, avg_delivery_speed
 FROM
     (SELECT 
