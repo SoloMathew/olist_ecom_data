@@ -22,13 +22,13 @@ Add chart image here
 
 The data is available in 8 csv files:
 
-customers.csv
-sellers.csv
-order_items.csv
-geolocation.csv
-payments.csv
-reviews.csv
-orders.csv
+customers.csv,
+sellers.csv,
+order_items.csv,
+geolocation.csv,
+payments.csv,
+reviews.csv,
+orders.csv,
 products.csv
 
 ![image](https://github.com/SoloMathew/olist_ecom_data/blob/main/schema.png)
