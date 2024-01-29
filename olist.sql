@@ -69,9 +69,9 @@ COUNT(time_of_day) AS order_count
 FROM
 (SELECT
 CASE
-WHEN hours >= 0 AND hours < 7 THEN "Dawn"
-WHEN hours >= 7 AND hours < 13 THEN "Mornings"
-WHEN hours >= 13 AND hours < 19 THEN "Afternoon"
+WHEN hours >= 0 AND hours < 6 THEN "Dawn"
+WHEN hours >= 6 AND hours < 12 THEN "Mornings"
+WHEN hours >= 12 AND hours < 18 THEN "Afternoon"
 ELSE "Night"
 END AS time_of_day
 FROM
