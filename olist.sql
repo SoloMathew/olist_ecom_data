@@ -175,7 +175,7 @@ y2017.month AS rowss,
 y2017.months,
 y2017.cost_2017,
 y2018.cost_2018,
-ROUND((y2018.cost_2018 - y2017.cost_2017) / y2018.cost_2018,2) AS percentage_difference
+ROUND((y2018.cost_2018 - y2017.cost_2017) / y2018.cost_2017,2) AS percentage_difference
 FROM
 y2017 JOIN y2018
 ON y2017.month = y2018.month
