@@ -36,9 +36,9 @@ products.csv
 ### Tools
 
 - BigQuery - Data Analysis
-- Tableau - Data Visiualisation ([Viz Link]([https://public.tableau.com/app/profile/solomon.mathew/viz/target_17068118907660/Dashboard1?publish=yes))
+- Tableau - Data Visiualisation ([Viz Link](https://public.tableau.com/app/profile/solomon.mathew/viz/olist_17072536116760/Dashboard1))
 
-### Exploratory Da](https://public.tableau.com/app/profile/solomon.mathew/viz/olist_17072536116760/Dashboard1)ta Analysis
+### Exploratory Data Analysis
 
 EDA involved exploring the sales data to answer key questions, such as:
 
