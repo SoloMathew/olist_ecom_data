@@ -16,7 +16,7 @@
 
 This particular data analysis project focuses on the operations of Olist in Brazil and provides insightful information about 100,000 orders placed between 2016 and 2018. By analyzing this extensive dataset, it becomes possible to gain valuable insights into Olist's operations in Brazil.
 
-Add chart image here
+![image](https://github.com/SoloMathew/olist_ecom_data/blob/main/olist_dashboard_snap.png)
 
 ### Data Sources
 
