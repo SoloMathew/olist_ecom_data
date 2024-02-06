@@ -36,7 +36,7 @@ products.csv
 ### Tools
 
 - BigQuery - Data Analysis
-- Tableau - Data Visiualisation
+- Tableau - Data Visiualisation ([Viz Link] (https://public.tableau.com/app/profile/solomon.mathew/viz/target_17068118907660/Dashboard1?publish=yes))
 
 ### Exploratory Data Analysis
 
