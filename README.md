@@ -19,6 +19,7 @@ This particular data analysis project focuses on the operations of Olist in Braz
 ![image](https://github.com/SoloMathew/olist_ecom_data/blob/main/olist_dashboard_snap.png)
 
 ### Data Sources
+---
 
 The data is available in 8 csv files:
 
@@ -34,11 +35,13 @@ products.csv
 ![image](https://github.com/SoloMathew/olist_ecom_data/blob/main/schema.png)
 
 ### Tools
+---
 
 - BigQuery - Data Analysis
 - Tableau - Data Visiualisation ([Viz Link](https://public.tableau.com/app/profile/solomon.mathew/viz/olist_17072536116760/Dashboard1))
 
 ### Exploratory Data Analysis
+---
 
 EDA involved exploring the sales data to answer key questions, such as:
 
@@ -47,6 +50,7 @@ EDA involved exploring the sales data to answer key questions, such as:
 - From how many cities and states orders were placed?
 
 ### Data Analysis
+---
 
 #### Some Interesting Queries
 
@@ -144,6 +148,7 @@ FROM
 ```
 
 ### Results
+---
 
 The analysis results are summarized as follows:
 1. The average freight value and delivery time are directly proportional to each other for the top and bottom five states in Brazil.
@@ -152,10 +157,13 @@ The analysis results are summarized as follows:
 4. There has been an increasing trend in the order count from the year 2017 to 2018.
 
 ### Recommendations
+---
 
 Based on the analysis, we recommend the following actions:
 - Afternoons would be the best time of the day for Olist to run their campaigns or any promotional events.
 - For the states where actual delivery times are faster as compared to their estimated delivery time, we can either reduce the estimated time, thereby making the customer feel more valued. Or we can reduce the freight charges for these states, thereby reducing the total cost per order.
 
 ### Reference
+---
+
 - [Kaggle](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
